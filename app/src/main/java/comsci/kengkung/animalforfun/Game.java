@@ -234,7 +234,7 @@ public class Game extends AppCompatActivity {
             setQuestion(qID.remove(0));
         }
     }
-
+//ได้อะลอก
     private void dialogBoxscore() {
         AlertDialog.Builder builder=new AlertDialog.Builder(this);
         builder.setTitle("สรุปคะแนน");
